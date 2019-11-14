@@ -1,0 +1,11 @@
+*italics* ``` *italics* ```
+**bold** ``` **bold** ```
+***bold italics*** ``` ***bold italics*** ```
+__underline__ ``` __underline__ ```
+__*underline italics*__ ``` __*underline italics*__ ```
+__**underline bold**__ ``` __**underline bold**__ ```
+__**underline bold italics**__ ``` __***underline bold italics***___ ```
+~~Strikethrough~~ ``` ~~Strikethrough~~ ```
+\*\*Raw\*\*```\*\*Raw\*\*```
+`Code` ``` `code` ```
+```Codeblock``` ``` \`\`\`Codeblock\`\`\` ```
